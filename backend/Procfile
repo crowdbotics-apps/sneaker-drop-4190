@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT sneaker_drop_4190.wsgi:application
